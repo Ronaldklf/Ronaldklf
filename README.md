@@ -1,7 +1,10 @@
-## Hi there 👋
+## BOM dia meus parsas 👋
 me chamo Ronald.
-nao trabalho
-sou um esdutande
+<ul>
+<li>Estou estudando na Alura</li>
+<li>Estou me desenvolvendo na linguagem JavaScript</li> 
+  <li>Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos</li>
+</ul>
 <!--
 **Ronaldklf/Ronaldklf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
